@@ -22,6 +22,11 @@ This project is designed as according to the specs outlined in **ENGFF019**'s Py
 - [x] Provide data validation / error-checking for inputs
 - [x] Provide test data samples
 
+## Limitations
+
+- Program auto-terminates when integer input fields receive non-integers.
+- `careerResults.py` algorithm lacks fine-tuned suggestions, as well as more possibilities.
+
 ## Resources
 
 Below are a collection of resources which helped improve my skills :sparkles: while building the project:
