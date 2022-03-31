@@ -16,6 +16,7 @@ This project is designed as according to the specs outlined in **ENGFF019**'s Py
 
 - [x] Modular design
 - [x] Implement loop structures (for, while)
+- [x] Implement functions
 - [x] Provide user-friendly input / output messages
 - [x] Implement program continuation / termination based on user inputs
 - [x] Provide data validation / error-checking for inputs
