@@ -15,7 +15,7 @@ mainModule.py
 This project is designed as according to the specs outlined in **ENGFF019**'s Python pair programming assessment.
 
 - [x] Modular design
-- [x] Implement loop structures (for, while)
+- [x] Implement loop structures (`for`, `while`)
 - [x] Implement functions
 - [x] Provide user-friendly input / output messages
 - [x] Implement program continuation / termination based on user inputs
