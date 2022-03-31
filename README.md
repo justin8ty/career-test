@@ -2,9 +2,13 @@
 
 This is a simple, terminal-based career test.
 
-## Live Preview
+## Usage
 
-This project is hosted on **GitHub Pages**. Feel free to [try it out](https://raineedust.github.io/career-test/)!
+```shell
+git clone https://github.com/raineedust/career-test.git
+cd career-test
+mainModule.py
+```
 
 ## Motivation and Goals
 
