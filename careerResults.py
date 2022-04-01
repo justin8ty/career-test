@@ -8,7 +8,7 @@
 # Student IDs: 20401485 | 20396553
 
 
-creativeCareer = ["Photographer, Graphics Designer, or Comedian."]
+creativeCareer = ["Graphics Designer, Photographer, or Comedian."]
 stemCareer = ["Software Developer, Scientist, or Data Analyst."]
 laborCareer = ["Pilot, Carpenter, or Social Worker."]
 
