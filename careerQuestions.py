@@ -101,11 +101,11 @@ def laborInput(startTest, creativeChoice, stemChoice):
 
         print(
             "\nYou've finished the test. Below are your final scores for: ",
-            "\nCreative Career: ",
+            "\nCreative Careers: ",
             creativeChoice,
-            "\nSTEM Career: ",
+            "\nSTEM Careers: ",
             stemChoice,
-            "\nLabor Career: ",
+            "\nLabor Careers: ",
             laborChoice,
         )
         careerOutput1(creativeChoice, stemChoice, laborChoice)
