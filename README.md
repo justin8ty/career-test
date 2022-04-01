@@ -9,7 +9,7 @@ This is a simple, terminal-based career test.
 ```shell
 git clone https://github.com/raineedust/career-test.git
 cd career-test
-mainModule.py
+py mainModule.py
 ```
 
 ## Motivation and Goals
