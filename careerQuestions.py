@@ -13,7 +13,7 @@ def creativeInput(startTest):
     while startTest == 1:
         while True:
             print(
-                "\nInstructions:\nEnter (1) if you agree \nEnter (0) if you disagree."
+                "\nInstructions:\nEnter (1) if you agree. \nEnter (0) if you disagree."
             )
             creativeChoice1 = int(
                 input("\nWould you enjoy designing a magazine cover? \nAnswer: ")
