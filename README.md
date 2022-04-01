@@ -12,7 +12,7 @@ mainModule.py
 
 ## Motivation and Goals
 
-This project is designed as according to the specs outlined in **ENGFF019**'s Python pair programming assessment.
+This project is developed as according to the specs outlined in **ENGFF019**'s Python pair programming assessment.
 
 - [x] Modular design
 - [x] Implement loop structures (`for`, `while`)
