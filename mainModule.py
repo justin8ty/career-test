@@ -1,7 +1,7 @@
 # Career Test
 #
-# This terminal program is developed as according to the specs
-# outlined in ENGFF019's Python pair-programming assessment.
+# This project is developed as according to the specs
+# outlined in ENGFF019's Python pair programming assessment.
 #
 # Co-Authored by:
 # Names: Anthony Saopa Phiri | Tan Jin Yi
@@ -39,6 +39,7 @@ def programRestart(startTest, name):
                 )
                 programStart(name)
             elif startTest == 0:
+                print("\nThanks for using our service. Have a nice day!")
                 quit()
 
 
@@ -47,10 +48,5 @@ nameInput()
 
 # Note to Dr. Reginamary:
 #
-# We did not implement error checking for the name, as some people may prefer to stay anonymous and use nicknames / usernames containing numbers or special characters instead.
-#
-# the if statement for startTest essentially functions as error checking.
-
-
-# Special thanks to:
-# - https://stackoverflow.com/questions/14907067/how-do-i-restart-a-program-based-on-user-input
+# We did not implement error checking for the name, as some users may prefer to stay
+# anonymous and provide usernames containing numbers or special characters instead.

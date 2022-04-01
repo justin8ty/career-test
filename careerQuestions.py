@@ -3,11 +3,10 @@
 # Student IDs: 20401485 | 20396553
 
 
-from careerResult import careerOutput1
-from careerResult import careerOutput2
-from careerResult import careerOutput3
-from careerResult import careerOutput4
-from careerResult import careerOutput5
+from careerResults import careerOutput1
+from careerResults import careerOutput2
+from careerResults import careerOutput3
+from careerResults import careerOutput4
 
 
 def creativeInput(startTest):
@@ -109,5 +108,4 @@ def laborInput(startTest, creativeChoice, stemChoice):
         careerOutput1(creativeChoice, stemChoice, laborChoice)
         careerOutput2(creativeChoice, stemChoice, laborChoice)
         careerOutput3(creativeChoice, stemChoice, laborChoice)
-        careerOutput4(creativeChoice, stemChoice, laborChoice)
-        return careerOutput5(creativeChoice, stemChoice, laborChoice)
+        return careerOutput4(creativeChoice, stemChoice, laborChoice)

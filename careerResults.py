@@ -33,19 +33,14 @@ def careerOutput3(creativeChoice, stemChoice, laborChoice):
 
 
 def careerOutput4(creativeChoice, stemChoice, laborChoice):
-    if (creativeChoice + stemChoice + laborChoice > 0) and (
-        creativeChoice == stemChoice and creativeChoice == laborChoice
-    ):
+    if (
+        (creativeChoice + stemChoice + laborChoice > 0)
+        and (creativeChoice == stemChoice and creativeChoice == laborChoice)
+    ) or (creativeChoice + stemChoice + laborChoice == 0):
         print(
             "\nUnfortunately, we do not have suitable careers based on your answers. We will keep improving on the test in the future!"
         )
 
 
-def careerOutput5(creativeChoice, stemChoice, laborChoice):
-    if creativeChoice + stemChoice + laborChoice == 0:
-        print(
-            "\nUnfortunately, we do not have suitable careers based on your answers. We will keep improving on the test in the future!"
-        )
-
-
-# This module can be implemented more efficiently using a single function, but we decided to follow the required specs.
+# This module can be implemented more efficiently using a single function,
+# but we decided to follow the required specs.
