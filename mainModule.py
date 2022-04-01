@@ -35,7 +35,7 @@ def programRestart(startTest, name):
             if startTest == 1:
                 creativeInput(startTest)
                 enterRestart = input(
-                    "\nHooray, you have come to the end of our test session! \nPress ENTER to proceed ..."
+                    "\nHooray, you have come to the end of our test session! \nPress ENTER to proceed ... "
                 )
                 programStart(name)
             elif startTest == 0:
@@ -48,5 +48,5 @@ nameInput()
 
 # Note to Dr. Reginamary:
 #
-# We did not implement error checking for the name, as some users may prefer to stay
+# We did not implement error checking for the `name`, as some users may prefer to stay
 # anonymous and provide usernames containing numbers or special characters instead.
