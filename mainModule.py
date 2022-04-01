@@ -1,4 +1,4 @@
-# Career Test
+# Q7 - Career Test
 #
 # This project is developed as according to the specs
 # outlined in ENGFF019's Python pair programming assessment.

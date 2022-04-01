@@ -1,11 +1,16 @@
+# Q7 - Career Test
+#
+# This project is developed as according to the specs
+# outlined in ENGFF019's Python pair programming assessment.
+#
 # Co-Authored by:
 # Names: Anthony Saopa Phiri | Tan Jin Yi
 # Student IDs: 20401485 | 20396553
 
 
-creativeCareer = ["Photographer, UI Designer, or Makeup Artist."]
-stemCareer = ["Software Developer, Scientist, or Doctor."]
-laborCareer = ["Custodian, Carpenter, or Plumber."]
+creativeCareer = ["Photographer, Graphics Designer, or Comedian."]
+stemCareer = ["Software Developer, Scientist, or Data Analyst."]
+laborCareer = ["Pilot, Carpenter, or Social Worker."]
 
 
 def careerOutput1(creativeChoice, stemChoice, laborChoice):

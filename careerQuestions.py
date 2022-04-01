@@ -1,3 +1,8 @@
+# Q7 - Career Test
+#
+# This project is developed as according to the specs
+# outlined in ENGFF019's Python pair programming assessment.
+#
 # Co-Authored by:
 # Names: Anthony Saopa Phiri | Tan Jin Yi
 # Student IDs: 20401485 | 20396553
@@ -29,9 +34,7 @@ def creativeInput(startTest):
             print("Please enter (1) if you agree, or (0) if you disagree.")
         while True:
             creativeChoice3 = int(
-                input(
-                    "\nDoes illustrating a children's book sounds interesting to you? \nAnswer: "
-                )
+                input("\nWould you like to entertain an audience? \nAnswer: ")
             )
             if creativeChoice3 in (0, 1):
                 break
@@ -44,7 +47,7 @@ def stemInput(startTest, creativeChoice):
     while startTest == 1:
         while True:
             stemChoice1 = int(
-                input("\nDo scientific experiments interest you? \nAnswer: ")
+                input("\nAre you fascinated by computers and coding? ? \nAnswer: ")
             )
             if stemChoice1 in (0, 1):
                 break
@@ -60,7 +63,7 @@ def stemInput(startTest, creativeChoice):
             print("Please enter (1) if you agree, or (0) if you disagree.")
         while True:
             stemChoice3 = int(
-                input("\nDo you enjoy analyzing a molecular structure? \nAnswer: ")
+                input("\nWould you like to analyze data using statistics? \nAnswer: ")
             )
             if stemChoice3 in (0, 1):
                 break
@@ -72,9 +75,7 @@ def stemInput(startTest, creativeChoice):
 def laborInput(startTest, creativeChoice, stemChoice):
     while startTest == 1:
         while True:
-            laborChoice1 = int(
-                input("\nWould you enjoy installing a hardwood floor? \nAnswer: ")
-            )
+            laborChoice1 = int(input("\nWould you enjoy flying a plane? \nAnswer: "))
             if laborChoice1 in (0, 1):
                 break
             print("Please enter (1) if you agree, or (0) if you disagree.")
@@ -89,7 +90,9 @@ def laborInput(startTest, creativeChoice, stemChoice):
             print("Please enter (1) if you agree, or (0) if you disagree.")
         while True:
             laborChoice3 = int(
-                input("\nDo you like to repair an Air Conditioning system? \nAnswer: ")
+                input(
+                    "\nWould you like to counsel people with drug or alcohol addiction? \nAnswer: "
+                )
             )
             if laborChoice3 in (0, 1):
                 break
