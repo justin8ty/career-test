@@ -1,6 +1,7 @@
 # Career Test
 
 This is a simple, terminal-based career test.
+
 ![WindowsTerminal_W4a2ReYd2a](https://user-images.githubusercontent.com/87443293/161212550-6e28c428-9dc3-41a1-9527-758528ed198a.png)
 
 ## Usage
