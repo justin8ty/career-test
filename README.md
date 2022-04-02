@@ -26,7 +26,7 @@ This project is developed as according to the specs outlined in **ENGFF019**'s P
 
 ## Testing Methodology
 
-You can study our program testing methodology, complete with test data samples [here](https://github.com/raineedust/career-test/blob/main/ENGFF019%20Career%20Test%20Testing%20Document.pdf).
+You can study our program testing methodology, complete with test data samples [here](https://github.com/raineedust/career-test/blob/main/ENGFF019%20Career%20Test%20Testing%20Methodology.pdf).
 
 Document prepared with [Obsidian](https://obsidian.md/).
 
